@@ -1,3 +1,3 @@
 names = ['Khup','Imran','Yoen','Mohamed','Amar']
-puts " hello ' + names
+puts " hello '
 
